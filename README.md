@@ -12,4 +12,5 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/php-4682B4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
